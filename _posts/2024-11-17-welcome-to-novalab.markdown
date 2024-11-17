@@ -5,6 +5,7 @@ date:   2024-11-17 14:26:56 +0100
 categories: novalab introduction
 ---
 
+
 Bienvenue sur **NovaLab**, un projet ambitieux et passionnant où technologie, créativité et innovation se rencontrent ! Je suis ravi de partager avec vous l'évolution de ce qui sera bien plus qu'un simple homelab : NovaLab est un espace dédié à l'expérimentation, la fabrication et l'hébergement, conçu pour repousser les limites de mes compétences et explorer des technologies passionnantes.
 
 ## Qu’est-ce que NovaLab ?
